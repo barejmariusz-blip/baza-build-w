@@ -1,0 +1,11 @@
+{
+  "app": "Baza Buildów",
+  "version": 1,
+  "games": [
+    {"id": "g-d2", "name": "Diablo 2", "color": "#c8452f", "sites": "maxroll.gg, diablo2.io, reddit.com/r/diablo2"},
+    {"id": "g-cp", "name": "Cyberpunk 2077", "color": "#f2e94e", "sites": "reddit.com/r/LowSodiumCyberpunk"},
+    {"id": "g-drg", "name": "Deep Rock Galactic: Survivor", "color": "#e8a33d", "sites": ""},
+    {"id": "g-fm", "name": "Football Manager", "color": "#4fb3a9", "sites": "fm-arena.com, passion4fm.com"}
+  ],
+  "builds": []
+}
